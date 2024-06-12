@@ -3,7 +3,7 @@ The objective of this task is to design and implement a solution to process data
 
 There are 2 data files [dataset_names.csv](/dataset_names.csv) and [dataset_price.csv](/dataset_price.csv), design a solution to process these files and push them into a duckdb database. The expected output of the processing task is a duckdb database including a table containing at least **first_name**, **last_name**, **price** and **above_100** columns.
 
-Please provide the code via github to explain your solution.
+Please provide the code via email to explain your solution.
 
 Processing tasks:
 - Split the name field into **first_name**, and **last_name**
